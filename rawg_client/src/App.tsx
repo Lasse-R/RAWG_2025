@@ -14,8 +14,8 @@ function App() {
         <NavBar />
       </GridItem>
       <Show above='lg'>
-        <GridItem pl='2' bg='teal.300' area={'aside'}>
-          aside
+        <GridItem pl='2' bg='dark.300' area={'aside'}>
+          Sidebar
         </GridItem>
       </Show>
       <GridItem pl='2' bg='dark.300' area={'main'} padding={5}>
